@@ -1,7 +1,7 @@
 {
   "name": "yuzu.health",
   "devDependencies": {
-    "prettier": "4.0.0-alpha.8",
+    "prettier": "3.2.5",
     "prettier-plugin-svelte": "^3.2.2",
     "prettier-plugin-tailwindcss": "^0.5.12",
     "turbo": "^1.12.5"
